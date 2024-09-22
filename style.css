@@ -1,8 +1,15 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url(fonts/Quicksand-Regular.ttf);
+}
+
+
 .heading{
     text-align: center;
 }
 
 .partai{
+    font-family: 'Quicksand', sans-serif;
     display: flex;
     justify-content: center;
 }
@@ -60,6 +67,10 @@
 }
 
 .div-4 {
+    text-align: center;
+}
+
+.visi {
     text-align: center;
 }
 .div-1{
