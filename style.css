@@ -2,31 +2,60 @@
     text-align: center;
 }
 
+.partai{
+    display: flex;
+    justify-content: center;
+}
+
 .XIIA1 {
     vertical-align: middle;
-    width: 15%;
-    height: 15%;
+    width: 13%;
+    height: 13%;
     border-radius: 50%;
+    margin: 1%;
 }
 
 .XIIB1 {
     vertical-align: middle;
-    width: 15%;
-    height: 15%;
+    width: 13%;
+    height: 13%;
     border-radius: 50%; 
+    margin: 1%;
 }
 
 .XIIF1 {
     vertical-align: middle;
-    width: 15%;
-    height: 15%;
+    width: 13%;
+    height: 13%;
     border-radius: 50%; 
+    margin: 1%;
 }
 
 .XIIG1 {
     vertical-align: middle;
-    width: 15%;
-    height: 15%;
+    width: 13%;
+    height: 13%;
+    border-radius: 50%; 
+    margin: 1%;
+}
+
+.paslon {
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.keii {
+    justify-content: center;
+    width: 35%;
+    height: 35%;
+    border-radius: 50%; 
+}
+
+.yess {
+    justify-content: center;
+    width: 35%;
+    height: 35%;
     border-radius: 50%; 
 }
 
